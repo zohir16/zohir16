@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on build python projects and other languages 
 - 📫 How to reach me ...
 - 😄 Pronouns: zoohere 
-- ⚡ Fun fact: ... sometimes i feel like i get in a wide desert in with some codes than i relaze that there is nothing easy you gotta to sacrifice in order to achieve your goals 
+- ⚡ Fun fact: ... sometimes i feel like i get in a wide desert  with some codes then i relaze that there is nothing easy you gotta to sacrifice in order to achieve your goals 
 if you can add any addtional information about python i will appricitate 
 <!---
 zohir16/zohir16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
